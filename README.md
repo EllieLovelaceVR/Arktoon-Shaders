@@ -5,13 +5,13 @@
 Consider to use other shaders in the future.  
 Such as these shaders :
 
+- [Sunao Shader](https://booth.pm/ja/items/1723985)
 - https://github.com/poiyomi/PoiyomiToonShader
 - https://github.com/Xiexe/Xiexes-Unity-Shaders
 - https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project
 - https://github.com/whiteflare/Unlit_WF_ShaderSuite
 - [MMS](https://miniscape.booth.pm/items/1627422)
 - [ReflexShader](https://reflex.booth.pm/items/1560511)
-<!-- - Arktoon 2018 -->
 
 # Arktoon-Shaders
 <img src="https://raw.githubusercontent.com/synqark/Arktoon-Shaders/master/Media/logo_1024.png" width="384">
