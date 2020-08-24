@@ -372,10 +372,10 @@ namespace ArktoonShaders
                 // Common
                 UIHelper.ShurikenHeader("Common");
                 UIHelper.DrawWithGroup(() => {
-					UIHelper.DrawWithGroup(() => {
+                    UIHelper.DrawWithGroup(() => {
                         materialEditor.TexturePropertySingleLine(new GUIContent("Main Texture", "Base Color Texture (RGB)"), BaseTexture, BaseColor);
                         materialEditor.TextureScaleOffsetPropertyIndent(BaseTexture);
-					});
+                    });
                     UIHelper.DrawWithGroup(() => {
                         materialEditor.TexturePropertySingleLine(new GUIContent("Normal Map", "Normal Map (RGB)"), Normalmap, BumpScale);
                         materialEditor.TextureScaleOffsetPropertyIndent(Normalmap);
