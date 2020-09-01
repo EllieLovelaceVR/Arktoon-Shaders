@@ -136,7 +136,7 @@ Shader "arktoon/Opaque" {
     }
     SubShader {
         Tags {
-			"Queue"="Geometry"
+            "Queue"="Geometry"
             "RenderType"="Opaque"
         }
         Pass {
@@ -174,7 +174,7 @@ Shader "arktoon/Opaque" {
             CGPROGRAM
 
             #pragma vertex vert
-			#pragma geometry geom
+            #pragma geometry geom
             #pragma fragment frag
             #pragma multi_compile_fwdadd_fullshadows
             #pragma multi_compile_fog
